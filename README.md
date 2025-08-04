@@ -47,7 +47,7 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
         <br><strong>💻 Code & Innovation</strong>
       </td>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="AI Robot Animation" width="95%"/>
+        <img src="images/emobot.gif" alt="Emo Robot Animation" width="95%"/>
         <br><strong>🤖 AI & Machine Learning</strong>
       </td>
     </tr>
@@ -165,5 +165,3 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
 <div align="center">
   <strong>⭐️ If you like my projects, please give them a star! ⭐️</strong>
 </div>
-
-
