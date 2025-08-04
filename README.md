@@ -1,6 +1,6 @@
-<!-- 使用SVG动态横幅替代CSS动画，避免GitHub兼容性问题 -->
+<!-- 科幻风格星光闪烁横幅 -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=🛸%20YUNK-S%20GALAXY%20🚀&text2=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&width=800&height=200" alt="Yunk-S Galaxy"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:009ffd,75:00d2ff,100:ffffff&height=300&section=header&text=🛸%20YUNK-S%20GALAXY%20🚀&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&descAlignY=65&descAlign=50&descSize=20"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Programming Animation" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Programming Animation" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ```yaml
 name: "Yunk-S"
@@ -43,7 +43,7 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="95%"/>
+        <img src="images/carbon.png" alt="Coding Animation" width="95%"/>
         <br><strong>💻 Code & Innovation</strong>
       </td>
       <td width="50%" align="center">
@@ -155,9 +155,9 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
   <img src="https://komarev.com/ghpvc/?username=Yunk-S&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<!-- 使用SVG动态结尾横幅 -->
+<!-- 科幻风格星光闪烁结尾横幅 -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=🌌%20Thank%20You%20for%20Visiting%20🌌&text2=May%20the%20code%20be%20with%20you!%20🚀&width=800&height=200" alt="Thank You Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,25:00d2ff,50:009ffd,75:004e92,100:000428&height=300&section=footer&text=🌌%20Thank%20You%20for%20Visiting%20🌌&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=May%20the%20code%20be%20with%20you!%20🚀&descAlignY=65&descAlign=50&descSize=18"/>
 </div>
 
 ---
