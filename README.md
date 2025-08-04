@@ -21,7 +21,7 @@
 name: "Yunk-S"
 location: "China Suzhou/Qingdao"
 education: "Data Science and Big Data Technology"
-interests: ["Design", "Data Analysis", "Learning", "Innovation"]
+interests: ["Design", "Data Analysis", "Innovation"]
 
 ```
 
@@ -159,4 +159,5 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
 
 <div align="center">
   <strong>⭐️ If you like my projects, please give them a star! ⭐️</strong>
+
 </div>
