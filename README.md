@@ -1,6 +1,6 @@
 <!-- 科幻风格星光闪烁横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:009ffd,75:00d2ff,100:ffffff&height=300&section=header&text=🛸%20YUNK-S%20GALAXY%20🚀&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&descAlignY=65&descAlign=50&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,25:004e92,50:009ffd,75:00d2ff,100:ffffff&height=300&section=header&text=🛸%20YUNK-S%20PROFILE%20🚀&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&descAlignY=65&descAlign=50&descSize=20"/>
 </div>
 
 <div align="center">
