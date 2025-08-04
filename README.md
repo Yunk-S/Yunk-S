@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Cyberpunk" width="400" src="https://user-images.githubusercontent.com/74038190/232212956-aa15049c-1087-43f1-8314-5f1624c919d3.gif">
 
 ```yaml
 name: "Yunk-S"
@@ -43,7 +43,7 @@ interests: ["Design", "Data Analysis", "Innovation"]
         <br><strong>💻 Code & Innovation</strong>
       </td>
       <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="AI Machine Learning" width="95%"/>
+        <img src="https://user-images.githubusercontent.com/74038190/232212103-e1453980-a681-4261-a1e6-347475f53948.gif" alt="AI & Machine Learning" width="95%"/>
         <br><strong>🤖 AI & Machine Learning</strong>
       </td>
     </tr>
@@ -161,3 +161,4 @@ interests: ["Design", "Data Analysis", "Innovation"]
   <strong>⭐️ If you like my projects, please give them a star! ⭐️</strong>
 
 </div>
+
