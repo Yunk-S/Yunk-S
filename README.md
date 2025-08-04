@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0f3460,50:0f3460,75:b31c6b,100:e94560&height=300&section=header&text=🛸%20YUNK-S%20GALAXY%20🚀&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&descAlignY=65&descAlign=50&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0f3460,50:0f3460,75:b31c6b,100:e94560&height=300&section=header&text=🛸%20YUNK-S%20PROFILE%20🚀&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=🌌%20Exploring%20AI%20•%20Data%20Science%20•%20Future%20Tech%20🌌&descAlignY=65&descAlign=50&descSize=20"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Cyberpunk" width="400" src="https://user-images.githubusercontent.com/74038190/232212956-aa15049c-1087-43f1-8314-5f1624c919d3.gif">
+<img align="right" alt="Programming Animation" width="400" src="https://64.media.tumblr.com/b4f805bb7c0820a4b8c1e4e1fd2a94c9/tumblr_onzd6kJ3kH1vfmcj1o1_500.gif">
 
 ```yaml
 name: "Yunk-S"
@@ -161,4 +161,5 @@ interests: ["Design", "Data Analysis", "Innovation"]
   <strong>⭐️ If you like my projects, please give them a star! ⭐️</strong>
 
 </div>
+
 
