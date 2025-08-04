@@ -47,7 +47,7 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
         <br><strong>💻 Code & Innovation</strong>
       </td>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="AI Robot Animation" width="95%"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ0ZzZxY3Q4dnN1NTIyOHpucHY5M2VjY3JzcHg5aG94cGJ6eWR2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hO/giphy.gif" alt="AI Robot Animation" width="95%"/>
         <br><strong>🤖 AI & Machine Learning</strong>
       </td>
     </tr>
