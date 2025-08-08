@@ -32,7 +32,7 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
 - 🔭 I'm currently learning **AI/Machine Learning/Frontend Development/Data Science**
 - 👯 I'm looking to collaborate on **Open Source Projects, Frontend Design**
 - 💬 Ask me about **Programming, Technology, Learning**
-- 📫 How to reach me: **syk919276136@gmail.com  919276136@qq.com**
+- 📫 How to reach me: **Yunkun.syk@gmail.com  919276136@qq.com**
 - ⚡ College Student×1: **Currently a university student, spending spare time researching open source projects and uploading some interesting "little toys" I create.**
 
 <div align="center">
