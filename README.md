@@ -9,7 +9,7 @@
     Hi there, I'm Yunk-S 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>🎓 Data Science Student | 💻 AI/Data/Frontend Developer | 🚀 Open Source Enthusiast</h3>
+  <h3>🎓 Data Science Student | 💻 AI/Data/Agent Developer | 🚀 Open Source Enthusiast</h3>
   <p><em>🌟 There are always more solutions than difficulties!</em></p>
 </div>
 
@@ -29,8 +29,8 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
 
 ```
 
-- 🔭 I'm currently learning **AI/Machine Learning/Frontend Development/Data Science**
-- 👯 I'm looking to collaborate on **Open Source Projects, Frontend Design**
+- 🔭 I'm currently learning **AI/Machine Learning/Agent/CV Development/Data Science**
+- 👯 I'm looking to collaborate on **Machine Learning, Agent Design, Computer Vision, Data Analysis**
 - 💬 Ask me about **Programming, Technology, Learning**
 - 📫 How to reach me: **Yunkun.syk@gmail.com  919276136@qq.com**
 - ⚡ College Student×1: **Currently a university student, spending spare time researching open source projects and uploading some interesting "little toys" I create.**
