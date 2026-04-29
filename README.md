@@ -92,7 +92,7 @@ interests: ["Design", "Data Analysis", "Learning", "Innovation"]
 <div align="center">
   <p>
     🐍 <strong>Python for Data Science and AI</strong> •
-    ⚛️ <strong>React & Vue.js for Interactive UIs</strong> •
+    ⚛️ <strong>Agent for New Era</strong> •
     🤖 <strong>Machine Learning & Deep Learning</strong>
   </p>
   <p>
